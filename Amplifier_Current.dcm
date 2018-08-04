@@ -162,6 +162,18 @@ K current sense shunt monitor
 F http://www.ti.com/lit/ds/symlink/ina193.pdf
 $ENDCMP
 #
+$CMP INA270
+D 80V, Low-/High-side, High-Speed, Voltage Output Current Sense Amplifier, 14V/V, SOIC-8
+K current monitor shunt sensor
+F http://www.ti.com/lit/ds/symlink/ina270.pdf
+$ENDCMP
+#
+$CMP INA271
+D 80V, Low-/High-side, High-Speed, Voltage Output Current Sense Amplifier, 20V/V, SOIC-8
+K current monitor shunt sensor
+F http://www.ti.com/lit/ds/symlink/ina271.pdf
+$ENDCMP
+#
 $CMP INA282
 D High-Accuracy, Wide Common-Mode Range, Bidirectional Current Shunt Monitors, Zero-Drift Series, 50V/V, SOIC-8/VSSOP-8
 K current monitor shunt sensor bidirectional
